@@ -1,6 +1,6 @@
 """ 
 Finite Difference Scheme for 1D Wave equation
-Fixed/ Neumann boundary conditions
+Fixed boundary conditions
 Raised cosine initial condition
 """
 
