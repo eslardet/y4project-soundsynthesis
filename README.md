@@ -26,9 +26,10 @@ C.5-hammer_ss_implicit_damped	: Stiff String with Hammer and Damping
 ## Sounds
 Sound output in the form of .wav files for all the codes listed above.
 
-The ‘Different notes’ folder contains sound files for all ‘C’ notes on the piano from C2 up to C7 using the final model from Appendix C.5. 
-The Python file full_model-notes contains all the final model and parameter values to create these notes.
-
 The .wav sound files are also converted to an .mp3 format in case your device is unable to play .wav files.
 
+There is a fun bonus sound file in this folder too ;)
+
+The ‘Different notes’ folder contains sound files for all ‘C’ notes on the piano from C2 up to C7 using the final model from Appendix C.5. 
+The Python file full_model-notes contains all the final model and parameter values to create these notes.
 
