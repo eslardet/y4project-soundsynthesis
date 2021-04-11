@@ -4,6 +4,12 @@ This repository contains supplementary material for the undergraduate project â€
 
 This includes the Python files, sound files, and animations for all the numerical models listed in Appendix C of the report.
 
+
+## Animations
+Short animated clips of the string for the various models.
+The code was modified and used animation.FuncAnimation from matplotlib to create the animations.
+An example code for animation purposes is provided for the 1D Wave.
+
 ## Code
 Python files from Appendix C of the report.
 
@@ -25,7 +31,4 @@ The Python file full_model-notes contains all the final model and parameter valu
 
 The 'mp3' folder contains the .wav sound files converted to an .mp3 format in case your device is unable to play .wav files.
 
-## Animations
-Short animated clips of the string for the various models.
-The code was modified and used animation.FuncAnimation from matplotlib to create the animations.
-An example code for animation purposes is provided for the 1D Wave.
+
